@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "midi-launchpad": "^1.0.3"
+    "launchpad-mini": "^1.1.0",
+    "launchpad-mk2": "^1.0.4",
+    "launchpadder": "0.0.5",
+    "midi": "^0.9.4",
+    "midi-launchpad": "^1.0.3",
+    "phi-launchpad": "^0.9.11"
   }
 }
