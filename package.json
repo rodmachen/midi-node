@@ -14,6 +14,7 @@
     "launchpadder": "0.0.5",
     "midi": "^0.9.4",
     "midi-launchpad": "^1.0.3",
+    "midi-stream": "^1.3.2",
     "phi-launchpad": "^0.9.11"
   }
 }
